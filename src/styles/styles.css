@@ -3,8 +3,11 @@ body{background: blue;}
   background: #000;
 }
 .block__item {
+   border-left: unset;
 }
 .block__ {
+background: blue;
 }
 .block__item--style {
+  width: auto;
 }
